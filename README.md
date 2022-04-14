@@ -1,6 +1,6 @@
 # Image Processing Algorithms
 
-Repository of Classical Image Processing Algorithms implemented from scratch. The contents include
+Repository of Classical Image Processing Algorithms implemented from scratch. Teaching material for Image Processing. The contents include
 - Image Processing Basics
 - Convolutions and Color Space Conversion
     - 2D convolutions using Doubly Blocked Toeplitz Matrix 
